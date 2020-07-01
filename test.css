@@ -23,9 +23,9 @@ h2{
 
 
 span{
-	font-style: italic;
+	font-style:italic;
 }
 
 h2 span{
-	text-decoration: line-through;
+	text-decoration:line-through;
 }
